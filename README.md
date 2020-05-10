@@ -5,7 +5,7 @@ Applying Deep Learning ANN and Hyper-Tuning the parameters to predict customer c
 File Size - 1 MB
 Data Shape - (10K,14)
 
-Steps Applied:
+## Steps Applied:
 - Data Import
 - Feature Encoding
 - Feature Scaling
